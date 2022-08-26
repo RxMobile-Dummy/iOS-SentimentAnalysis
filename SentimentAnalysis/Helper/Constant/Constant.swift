@@ -8,6 +8,7 @@
 import Foundation
 
 //MARK: - Base URL
+let kBASEURL = "https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty"
 
 //MARK: - Label Title
 
