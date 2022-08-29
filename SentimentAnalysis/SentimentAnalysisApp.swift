@@ -11,7 +11,7 @@ import SwiftUI
 struct SentimentAnalysisApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+          HackerNewsView()
         }
     }
 }
