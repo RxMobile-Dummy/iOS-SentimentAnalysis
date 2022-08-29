@@ -36,7 +36,7 @@ Below is an example of how you can instruct your audience on installing and sett
 
 - Hacker News Screen
 
-  - We have used [Hacker News API](/https://github.com/HackerNews/API) for display list of hacker news.
+  - We have used [Hacker News API](https://github.com/HackerNews/API) for display list of hacker news.
 
 # App UI
 
