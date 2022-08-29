@@ -8,6 +8,10 @@ iOS-SentimentAnalysis
 
 * Installation
 
+* Features
+
+* App UI
+
 # Introduction
 
 SwiftUI and combine, along with natural language processing in real-time to have a sentiment analysis based on comments of news.
@@ -38,6 +42,10 @@ Below is an example of how you can instruct your audience on installing and sett
 
   - We have used [Hacker News API](https://github.com/HackerNews/API) for display list of hacker news.
 
+- Comment News Screen
+
+  - We have displayed news commnet with SentimentAnalysis Count using NaturalLanguage's NLTagger FrameWork.
+ 
 # App UI
 
 This app only works on iOS 13.0+
